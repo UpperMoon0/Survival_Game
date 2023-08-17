@@ -1,7 +1,10 @@
 ManifestFileVersion: 0
-CRC: 2580692463
+CRC: 1468752730
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: items
+      Dependencies: {}
+    Info_1:
+      Name: biomeprefabs
       Dependencies: {}

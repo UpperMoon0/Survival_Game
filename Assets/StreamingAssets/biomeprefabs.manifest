@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3147546258
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 91547d0778cdf76e6b8f153ded497924
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bb3f49cbf9ab82d37cd7fae230ed5d11
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Biomes/SafeZone/Flint.prefab
+- Assets/Prefabs/Biomes/SafeZone/Stick.prefab
+- Assets/Prefabs/Biomes/SafeZone/Tree1.prefab
+Dependencies: []

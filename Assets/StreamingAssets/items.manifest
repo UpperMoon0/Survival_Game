@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4200610291
+CRC: 3563186041
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 40fd586cf1d8e8999d3695750ceef007
+    Hash: 63bbc35b1f10caf7f66ed9626bbe4b56
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
@@ -16,6 +16,9 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Textures/Items/Wood.png
+- Assets/Textures/Items/Flint.png
 - Assets/Textures/Items/Stone.png
+- Assets/Textures/Items/Stick.png
 - Assets/Textures/Items/Fiber.png
+- Assets/Textures/Items/FlintAxe.png
 Dependencies: []
